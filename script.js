@@ -140,7 +140,6 @@ const targetWords = [
   “winds”,
   “river”,
   “curie”, 
-
 ]
 const WORD_LENGTH = 5
 const FLIP_ANIMATION_DURATION = 500
