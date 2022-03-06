@@ -69,7 +69,7 @@ const targetWords = [
   "atoll",
   "agate",
   "paleo",
-  "smoke"
+  "smoke",
   "cycle",
   "varve",
   "quake",
