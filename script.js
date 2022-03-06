@@ -15288,6 +15288,7 @@ const dictionary = [
   "artsy",
   "rural",
   "shave",
+  "qqqqq",
 ]
 const WORD_LENGTH = 5
 const FLIP_ANIMATION_DURATION = 500
