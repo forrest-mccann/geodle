@@ -1,5 +1,5 @@
 const targetWords = [
-    “earth”,
+  “earth”,
   “night”,
   “light”,
   “creep”,
